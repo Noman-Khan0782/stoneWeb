@@ -38,7 +38,8 @@ export const Contact = () => {
           rounded-xl text-white"/>
           <textarea name="" id="" placeholder="Please Enter Your Message" rows="6" className="w-full bg-slate-900 px-6 py-4 
           rounded-xl text-white"></textarea>
-          <button className="bg-yellow-500 text-white w-full px-6 py-4 rounded-md 
+          <button className="bg-yellow-500 text-white w-full px-6 py-4 
+          rounded-md hover:bg-orange-500
           font-semibold">Submite Now</button>
         </div>
       </div>

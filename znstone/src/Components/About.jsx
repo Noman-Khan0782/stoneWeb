@@ -42,8 +42,9 @@ const About = () => {
             ZN <IoDiamond />
             Treasures Of The Earth
           </h1>
-          <p className="text-[18px] text-slate-700">
-            Lorem ipsum dolor, sit aeaque esse similique eveniet ipsa adipisci!
+          <p className="lg:text-[22px] text-[18px] text-slate-700">
+          Welcome to "ZN Treasures Of The Earth", where we make beautiful, high-quality jewelry. 
+          Find timeless pieces perfect for celebrating life's special moments.
           </p>
 
           <div className="flex flex-col justify-center items-start gap-4">
@@ -51,31 +52,32 @@ const About = () => {
               data-aos="zoom-in"
               data-aos-delay="400"
               className="text-black flex justify-center
-         items-center gap-3"
+         items-center gap-3 lg:text-2xl"
             >
               <GrFormNext className="size-40 text-yellow-500" />
-              Lorem ieatae aut consectetur alendus tenetur, fuga aperi ssimos
-              officia!
+              To provide High-quality gold, platinum, diamonds, and gemstones and focus 
+              on Quality, integrity, customer satisfaction
+            </p>
+            
+            <p
+              data-aos="zoom-in"
+              data-aos-delay="400"
+              className="text-black flex justify-center
+         items-center gap-3 lg:text-2xl"
+            >
+              <GrFormNext className="size-40 text-yellow-500" />
+              To provide timeless pieces that celebrate life's special moments.
+              High-quality gemstones at competitive prices.
             </p>
             <p
               data-aos="zoom-in"
               data-aos-delay="400"
               className="text-black flex justify-center
-         items-center gap-3"
+         items-center gap-3 lg:text-2xl"
             >
               <GrFormNext className="size-40 text-yellow-500" />
-              Lorem ieatae aut consectetur alendus tenetur, fuga aperi ssimos
-              officia!
-            </p>
-            <p
-              data-aos="zoom-in"
-              data-aos-delay="400"
-              className="text-black flex justify-center
-         items-center gap-3"
-            >
-              <GrFormNext className="size-40 text-yellow-500" />
-              Lorem ieatae aut consectetur alendus tenetur, fuga aperi ssimos
-              officia!
+              We offer bespoke Gemstone to match your unique style and preferences.
+              Visit us in-store or browse our collection online.
             </p>
           </div>
           <button
