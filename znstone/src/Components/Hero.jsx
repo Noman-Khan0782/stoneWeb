@@ -27,7 +27,7 @@ const Hero = () => {
         <p
           data-aos="zoom-in"
           data-aos-delay=""
-          className="text-white text-6xl font-bold text-center items-start lg:ml-50 ml-28 bg-black rounded-3xl"
+          className="text-white lg:text-6xl text-5xl font-bold text-center items-start lg:ml-50 ml-28 bg-black rounded-2xl"
         >
           Z <span className="text-yellow-400 italic">N </span>
           <span>
@@ -37,7 +37,7 @@ const Hero = () => {
         <h1
           data-aos="zoom-in"
           data-aos-delay=""
-          className="text-black font-bold 
+          className="text-black font-bold text-center
         lg:text-[50px] text-[43px] lg:leading-[100px] leading-[80px]"
         >
           Treasures Of The Earth

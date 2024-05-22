@@ -17,7 +17,7 @@ const Services = () => {
     <section
       id="services"
       className="w-[90%] m-auto flex lg:flex-row flex-col justify-between 
-   items-center gp-28 py-20 "
+   items-center gp-28 py-20 border-y-2 border-slate-700  "
     >
       <div
         data-aos="zoom-in"
@@ -28,7 +28,7 @@ const Services = () => {
         {servicesinfo.map((item, index) => (
           <div
             key={index}
-            className="flex flex-col justify-center items-start gap-6"
+            className="flex flex-col justify-center items-center gap-6"
           >
             <img
               src={item.icon}
@@ -46,7 +46,7 @@ const Services = () => {
             <h1
               data-aos="zoom-in"
               data-aos-delay="600"
-              className="text-[26px] text-yellow-400 font-semibold"
+              className="text-[24px] text-yellow-400 text-center font-semibold"
             >
               {item.title}
             </h1>

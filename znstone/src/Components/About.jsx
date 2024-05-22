@@ -26,20 +26,20 @@ const About = () => {
             data-aos-delay="200"
             src={about}
             alt=""
-            className="lg:w-[1000px] h-[550px] rounded-3xl"
+            className="lg:w-[1000px] lg:h-[550px] rounded-3xl"
           />
         </div>
         <div
           data-aos="zoom-in"
           data-aos-delay="400"
-          className="flex flex-col justify-center items-start gap-4"
+          className="flex flex-col justify-center lg:items-start items-center gap-4"
         >
-          <h1 className="text-red-600 text-[23px] font-semibold">WHO WE ARE</h1>
+          <h1 className="text-red-600 text-[23px] font-bold">WHO WE ARE</h1>
           <h1
             className="text-black font-semibold lg:text-[60px] text-[50px]
         lg:leading-[70px] leading-[60px] "
           >
-            ZN <IoDiamond />
+            ZN <IoDiamond  />
             Treasures Of The Earth
           </h1>
           <p className="lg:text-[22px] text-[18px] text-slate-700">

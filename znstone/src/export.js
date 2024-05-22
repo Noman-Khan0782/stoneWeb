@@ -16,7 +16,7 @@ export const servicesinfo = [
   {
     icon: icon2,
     Rs: "Rs : 20,000",
-    title: "Buautiful Natural Labradorite",
+    title: "Buautiful Natural Labradorite (AQUAMARINE)",
     about:
       "Ring Size: 22 pK , Weight: 10.88 G (Total) , Stone: AQUAMARINE , Material: 925 Sterling Silver (Chandi)",
     label: "Read More",
@@ -24,7 +24,7 @@ export const servicesinfo = [
   {
     icon: icon3,
     Rs: "Rs : 17,000",
-    title: "Buautiful Natural Labradorite",
+    title: "Buautiful Natural Labradorite (Diamond)",
     about:
       "Weight: 6.84g (Total)  Stone: Diamond  Material: 925 Sterling Silver (Chandi) , Finishing: Lacquer Polish",
     label: "Read More",

@@ -26,9 +26,10 @@ export const Contact = () => {
         className="lg:w-[50%] w-full flex flex-col justify-center items-start
        gap-8 lg:p-16 p-8 bg-black rounded-3xl"
       >
-        <h1 className="text-white text-[40px] font-semibold">Let's Talk Your Project
+        <h1 className="text-white lg:text-[40px] text-[30px] font-semibold">Let's Talk About Your Choice
         </h1>
-        <div id="formbox" className="w-full bg-transparent flex flex-col justify-center 
+        <div id="formbox" className="w-full  bg-transparent flex flex-col justify-center
+        lg:text-[15px] text-[10px]
         items-center gap-4">
           <input type="text" placeholder="Please Enter Your FullName" className="w-full bg-slate-900 px-6 py-4 
           rounded-xl text-white"/>
